@@ -1,4 +1,4 @@
-# ImageCHD-A-3D-Computed-TomographyImage-Dataset-for-Classification-of-CongenitalHeart-Disease
+# ImageCHD-A-3D-Computed-TomographyImage-Dataset-for-Classification-of-Congenital-Heart-Disease
 
 A dataset of A 3D Computed Tomography (CT) image dataset, ImageChD, for classification of Congenital Heart Disease (CHD) is published. 
 
